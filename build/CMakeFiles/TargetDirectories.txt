@@ -1,0 +1,6 @@
+/Users/jiaqiluo/Desktop/learning/CG/Homeworks/pathTracer/code/build/CMakeFiles/rebuild_cache.dir
+/Users/jiaqiluo/Desktop/learning/CG/Homeworks/pathTracer/code/build/CMakeFiles/edit_cache.dir
+/Users/jiaqiluo/Desktop/learning/CG/Homeworks/pathTracer/code/build/CMakeFiles/PA1.dir
+/Users/jiaqiluo/Desktop/learning/CG/Homeworks/pathTracer/code/build/deps/vecmath/CMakeFiles/rebuild_cache.dir
+/Users/jiaqiluo/Desktop/learning/CG/Homeworks/pathTracer/code/build/deps/vecmath/CMakeFiles/edit_cache.dir
+/Users/jiaqiluo/Desktop/learning/CG/Homeworks/pathTracer/code/build/deps/vecmath/CMakeFiles/vecmath.dir
